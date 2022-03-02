@@ -2,11 +2,11 @@
 
 /*
 Plugin Name: Shortcode For Template
-Plugin URI: http://URI_Of_Page_Describing_Plugin_and_Updates
+Plugin URI: https://github.com/adarshakshat/shortcode-for-template
 Description: A brief description of the Plugin.
 Version: 1.0
 Author: adarshakshat
-Author URI: http://URI_Of_The_Plugin_Author
+Author URI: https://github.com/adarshakshat/
 License: A "Slug" license name e.g. GPL2
 */
 
